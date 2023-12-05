@@ -42,11 +42,11 @@
     }
 
     .banner_pesquisa {
-        width: 50%;
+        width: 45%;
     }
 
     .banner_pesquisa::placeholder {
-       background-position: 7em;
+       background-position: 10.5em;
     }
 }
 
@@ -56,12 +56,13 @@
     .banner_pesquisa {
         width: 35%;
     }
-}
+
 
 .banner_pesquisa::placeholder {
-    background-position:4em;
+    background-position:15.5em;
 }
 
 .banner {
     padding: 6em 0;
+}
 }
